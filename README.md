@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started    VISITA EL PROYECTO TERMINADO EN https://guitar-la-next-rosy.vercel.app/ y la Administracion en https://guitarla-strapi-n4o1.onrender.com/admin/
 
 First, run the development server:
 
